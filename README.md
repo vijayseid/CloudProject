@@ -1,4 +1,4 @@
-# EurekaSeverWithFeignClientAndZuul
+# SpringCloudProject
 
 EurekaServer is the Master Server(Registry)
 EurekaServer2 is ClientServer
