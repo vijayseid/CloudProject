@@ -20,6 +20,9 @@ public class EurekaServer2Application {
 		SpringApplication.run(EurekaServer2Application.class, args);
 	}
 	
+	
+
+	
 	  @Configuration 
 	  class configuraion {
 	  
